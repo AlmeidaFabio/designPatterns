@@ -31,8 +31,8 @@ Os padrões de design são classificados em três categorias principais:
       - [Chain of Responsibility](/chainsOfResponsability.js)
       - [Command](/command.js)
       - [Interpreter](/interpreter.js)
-      - Iterator
-      - Mediator
+      - [Iterator](/iterator.js)
+      - [Mediator](/mediator.js)
       - Memento
       - Observer
       - State
