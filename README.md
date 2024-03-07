@@ -28,9 +28,9 @@ Os padrões de design são classificados em três categorias principais:
   
 3. Padrões Comportamentais: Esses padrões tratam do comportamento entre objetos e a comunicação entre eles. Eles ajudam a definir como os objetos interagem e respondem a eventos ou mudanças de estado.
    - Exemplos incluem:
-      - Chain of Responsibility
-      - Command
-      - Interpreter
+      - [Chain of Responsibility](/chainsOfResponsability.js)
+      - [Command](/command.js)
+      - [Interpreter](/interpreter.js)
       - Iterator
       - Mediator
       - Memento
