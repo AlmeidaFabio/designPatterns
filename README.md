@@ -33,12 +33,12 @@ Os padrões de design são classificados em três categorias principais:
       - [Interpreter](/interpreter.js)
       - [Iterator](/iterator.js)
       - [Mediator](/mediator.js)
-      - Memento
-      - Observer
-      - State
-      - Strategy
-      - Template Method
-      - Visitor
+      - [Memento](/memento.js)
+      - [Observer](/observer.js)
+      - [State](/state.js)
+      - [Strategy](/strategy.js)
+      - [Template Method](/templateMethod.js)
+      - [Visitor](/visitor.js)
 
 É importante notar que os design patterns não são soluções prontas para todos os problemas. Eles devem ser aplicados de forma criteriosa, levando em consideração o contexto específico do projeto e as necessidades do sistema. Um uso excessivo ou inadequado de padrões pode levar a uma complexidade desnecessária no código.
 
